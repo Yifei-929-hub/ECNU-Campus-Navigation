@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# 编译产物
+*.exe
+*.o
